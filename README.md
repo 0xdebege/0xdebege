@@ -7,5 +7,4 @@ root@srv-office03:/dev/shm/...~# ./scorpion_inject
 [ 0x00007fffffffe290 ] injected __vuln +0x539  
 
 [✓] shared object loaded  
-root@srv-office03:/dev/shm/...~# echo "GOOD END! : )"  
-GOOD END! : )
+root@srv-office03:/dev/shm/...~#
