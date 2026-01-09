@@ -1,6 +1,6 @@
 root@srv-office03:/dev/shm/...~# ./scorpion_inject  
 
-
+```
          ___..._
     _,--'       "`-.
   ,'.  .            \
@@ -15,7 +15,7 @@ root@srv-office03:/dev/shm/...~# ./scorpion_inject
      `. \`;:.   //,/
       .\\)`;,|\'/(
        ` `itz `(,
-
+```
 
 [+] discord   : 0xdebege  
 [+] X         : [0xdebege](https://x.com/0xdebege)  
