@@ -22,7 +22,7 @@ root@srv-office03:/dev/shm/...~# ./scorpion_inject
 [+] discord:  0xdebege  
 [+] X:        [0xdebege](https://x.com/0xdebege)  
 [+] youtube:  [0xdebege](https://www.youtube.com/@0xdebege)  
-[+] mail:     [0xdbg@proton.me](mailto:0xdbg@proton.me)  
+[+] mail:     [dbg@pwnbuffer.org](mailto:dbg@pwnbuffer.org)  
 
 <p align="center">
   <img src="gifs/piracy.gif" height="48" />
