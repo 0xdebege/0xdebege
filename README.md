@@ -29,11 +29,10 @@ root@srv-office03:/dev/shm/...~# ./scorpion_inject
   <img src="gifs/nowanar.gif" height="48" />
   <img src="gifs/chrome.gif" height="48" />
   <img src="gifs/hedied4u.gif" height="48" />
-</p>
-<p align="center">
   <img src="gifs/monero-logo.png" height="48" />
   <img src="gifs/X6CYSYJE5QHHKN5H2ICAZP45BTXC26MJ.gif" height="48" />
 </p>
+
 
 ```
 [ 0x00007fffffffe2a8 ] found    __vuln  
