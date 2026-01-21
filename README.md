@@ -20,7 +20,7 @@ root@srv-office03:/dev/shm/...~# ./scorpion_inject
 ```
 
 [+] discord:  0xdebege  
-[+] Jabber: dbg@pwned.life (More Private | E2E-Encrypted)
+[+] Jabber: dbg@pwned.life (More Private | E2E-Encrypted)  
 [+] X:        [0xdebege](https://x.com/0xdebege)  
 [+] youtube:  [0xdebege](https://www.youtube.com/@0xdebege)  
 [+] mail:     [dbg@pwnbuffer.org](mailto:dbg@pwnbuffer.org)  
